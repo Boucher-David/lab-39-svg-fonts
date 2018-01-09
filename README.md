@@ -1,6 +1,8 @@
 401 JS --  Lab 39 SVGs and Fonts
 ===
+David's Description
 
+===
 ## Submission Instructions
 * Continue working from Lab-38
 * Submit a pull request
